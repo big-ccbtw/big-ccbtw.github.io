@@ -11,7 +11,7 @@ redirect_from:
 Hi! My name is Yiting Lu（陆怡婷）, a first-year Ph.D. student in Statistics at [Computer, Electical and Mathematical Sciences and Engineering (CEMSE)](https://cemse.kaust.edu.sa/), King Abdullah University of Science and Technology (KAUST), supervised by Prof. [Maurizio Filippone](https://www.kaust.edu.sa/en/study/faculty/maurizio-filippone). Before that, I obtained my bachelor's degree in statistcs from Hangzhou Dianzi University in 2024, supervised by Prof. [Rendao Ye](https://economics.hdu.edu.cn/eco_en/2020/0623/c5273a109998/page.htm) and Dr. Jiesheng Si. I did my undergraduate summer research in College of Public Health at Ohio State University, supervised by Dr. [Fernanda Schumacher](https://cph.osu.edu/people/fschumacher).
 
 
-You can reach me by email: luyt1020@gmail.com
+You can reach me by email: yiting.lu@kaust.edu.sa
 
 
 ## Research Interests
